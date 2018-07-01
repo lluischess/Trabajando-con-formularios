@@ -1,0 +1,11 @@
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\bin\Debug\Test1.xml
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.vbprojResolveAssemblyReference.cache
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.Resources.resources
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.xml
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\Test1\Test1\obj\Debug\Test1.Principal.resources
